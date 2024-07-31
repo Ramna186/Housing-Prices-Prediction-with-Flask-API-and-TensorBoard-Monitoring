@@ -1,6 +1,6 @@
 # Housing-Prices-Prediction-with-Flask-API-and-TensorBoard-Monitoring
 
-<u>**Table of Contents:**</u>
+<u>Table of Contents:</u>
 
 Introduction
 Features
@@ -10,7 +10,7 @@ Approach
 Kaggle link
 Acknowledgements
 
-<u>**Introduction :**</u>
+<u>Introduction :</u>
 This project involves developing a machine learning model to predict housing prices and deploying it as a Flask API for real-time predictions. TensorBoard is integrated for monitoring model performance and training metrics.
 
 <u>**Features :**</u>

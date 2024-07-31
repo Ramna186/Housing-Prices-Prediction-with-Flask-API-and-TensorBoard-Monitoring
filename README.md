@@ -1,36 +1,55 @@
 # Housing-Prices-Prediction-with-Flask-API-and-TensorBoard-Monitoring
 
-**<u>Table of Contents:</u>**
+**Table of Contents:**
 
 Introduction
+
 Features
+
 Technologies Used
-Goal  
+
+Goal
+
 Approach
+
 Kaggle link
+
 Acknowledgements
 
-<u>Introduction :</u>
+**Introduction :**
 This project involves developing a machine learning model to predict housing prices and deploying it as a Flask API for real-time predictions. TensorBoard is integrated for monitoring model performance and training metrics.
 
-<u>**Features :**</u>
+**Features :**
 
-Data collection and preprocessing
-Machine learning model development and evaluation
-Flask API for real-time predictions
-Integration with TensorBoard for monitoring training metrics
-Deployment on cloud platforms (e.g., AWS, Azure, Google Cloud)
+Data collection and preprocessing 
+
+Machine learning model development and evaluation 
+
+Flask API for real-time predictions 
+
+Integration with TensorBoard for monitoring training metrics 
+
+Deployment on cloud platforms (e.g., AWS, Azure, Google Cloud) 
+
 Continuous monitoring and logging
 
 **Technologies Used :**
 Python
+
 Flask
+
 TensorFlow/Keras
+
 TensorBoard
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Docker (optional for containerization)
+
 Cloud services (AWS, Azure, Google Cloud)
 
 **Goal :**
@@ -59,10 +78,12 @@ Input Validation: Ensure the API validates input data and handles errors appropr
 Testing: Test the API endpoints to ensure they are reliable and accurate.
 
 4. TensorBoard Integration
+   
 Logging: Integrate TensorBoard to log training metrics such as loss, accuracy, and custom metrics.
 Visualization: Use TensorBoard's dashboard to visualize and monitor training progress in real-time.
 
 5. Deployment and Monitoring
+   
 Containerization (Optional): Use Docker to containerize the application for consistent deployment.
 Cloud Deployment: Deploy the Flask API on a cloud platform like AWS, Azure, or Google Cloud.
 Monitoring: Set up monitoring and logging to track API performance, request handling, and potential issues.

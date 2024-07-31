@@ -53,6 +53,7 @@ Docker (optional for containerization)
 Cloud services (AWS, Azure, Google Cloud)
 
 **Goal :**
+
 The goal of this project is to build a robust machine learning model capable of accurately predicting housing prices based on various features. By deploying this model as a Flask API, we aim to provide real-time predictions to users. Additionally, integrating TensorBoard for monitoring allows for continuous tracking of model performance and training metrics, ensuring the model remains reliable and effective over time. This project also demonstrates the use of modern cloud platforms for scalable and efficient deployment of machine learning solutions.
 
 **Approach :**
@@ -95,6 +96,7 @@ Model Updates: Update the model periodically with new data to maintain accuracy.
 Bug Fixes: Address any bugs or issues that arise during the usage of the API.
 
 **Kaggle link :**
+
 Kindly upvote if you like it.
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
 

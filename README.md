@@ -1,6 +1,6 @@
 # Housing-Prices-Prediction-with-Flask-API-and-TensorBoard-Monitoring
 
-<u>Table of Contents:</u>
+**<u>Table of Contents:</u>**
 
 Introduction
 Features

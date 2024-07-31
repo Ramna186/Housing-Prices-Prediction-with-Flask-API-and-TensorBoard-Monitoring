@@ -17,6 +17,7 @@ Kaggle link
 Acknowledgements
 
 **Introduction :**
+
 This project involves developing a machine learning model to predict housing prices and deploying it as a Flask API for real-time predictions. TensorBoard is integrated for monitoring model performance and training metrics.
 
 **Features :**
@@ -34,6 +35,7 @@ Deployment on cloud platforms (e.g., AWS, Azure, Google Cloud)
 Continuous monitoring and logging
 
 **Technologies Used :**
+
 Python
 
 Flask
@@ -59,6 +61,7 @@ The goal of this project is to build a robust machine learning model capable of 
 **Approach :**
 
 1. Data Collection and Preprocessing
+   
 Data Source: Gather housing data from sources such as Kaggle or real estate databases.
 Data Cleaning: Handle missing values, remove duplicates, and correct any inconsistencies.
 Feature Engineering: Create new features from existing data to improve model performance.
@@ -91,6 +94,7 @@ Monitoring: Set up monitoring and logging to track API performance, request hand
 Auto-scaling: Implement auto-scaling and load balancing to handle varying traffic loads efficiently.
 
 6. Maintenance and Updates
+   
 Continuous Monitoring: Regularly monitor the API and model performance.
 Model Updates: Update the model periodically with new data to maintain accuracy.
 Bug Fixes: Address any bugs or issues that arise during the usage of the API.

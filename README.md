@@ -1,6 +1,6 @@
 # Housing-Prices-Prediction-with-Flask-API-and-TensorBoard-Monitoring
 
-Table of Contents:
+**Table of Contents:**
 
 Introduction
 Features
@@ -10,10 +10,11 @@ Approach
 Kaggle link
 Acknowledgements
 
-Introduction :
+**Introduction :**
 This project involves developing a machine learning model to predict housing prices and deploying it as a Flask API for real-time predictions. TensorBoard is integrated for monitoring model performance and training metrics.
 
-Features :
+**Features :**
+
 Data collection and preprocessing
 Machine learning model development and evaluation
 Flask API for real-time predictions
@@ -21,7 +22,7 @@ Integration with TensorBoard for monitoring training metrics
 Deployment on cloud platforms (e.g., AWS, Azure, Google Cloud)
 Continuous monitoring and logging
 
-Technologies Used :
+**Technologies Used :**
 Python
 Flask
 TensorFlow/Keras
@@ -32,10 +33,10 @@ Scikit-learn
 Docker (optional for containerization)
 Cloud services (AWS, Azure, Google Cloud)
 
-Goal :
+**Goal :**
 The goal of this project is to build a robust machine learning model capable of accurately predicting housing prices based on various features. By deploying this model as a Flask API, we aim to provide real-time predictions to users. Additionally, integrating TensorBoard for monitoring allows for continuous tracking of model performance and training metrics, ensuring the model remains reliable and effective over time. This project also demonstrates the use of modern cloud platforms for scalable and efficient deployment of machine learning solutions.
 
-Approach :
+**Approach :**
 
 1. Data Collection and Preprocessing
 Data Source: Gather housing data from sources such as Kaggle or real estate databases.
@@ -72,8 +73,8 @@ Continuous Monitoring: Regularly monitor the API and model performance.
 Model Updates: Update the model periodically with new data to maintain accuracy.
 Bug Fixes: Address any bugs or issues that arise during the usage of the API.
 
-Kaggle link : 
+**Kaggle link :**
 Kindly upvote if you like it.
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
-THANK YOU:
+**THANK YOU:**
